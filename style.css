@@ -1,0 +1,92 @@
+
+h1 {
+  font-family:Helvetica;
+  color: white;
+  font-size:55px;
+  margin: 5px;
+}
+
+h2 {
+  font-family: Helvetica;
+  color: white;
+  font-size: 30px;
+  text-align:center;
+}
+
+h3 {
+  font-family: Helvetica;
+  color: white;
+  font-size: ;
+}
+
+p {
+  font-family:;
+  color: black;
+  font-size: 18px;
+}
+
+
+.wrapper {
+  background-color: #5bc5c3;
+  width: 1000px;
+  height: auto;
+  border: 4px #f36e26 solid;;
+  border-radius: 15px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.banner {
+  background-color: #f36e26;
+  width: 900px;
+  height: auto;
+  border: 4px #f36e26 solid;;
+  border-radius: 50px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  background-color: #cce57c;
+  width: 900px;
+  height: 600px;
+  border: 4px #f36e26 solid;;
+  border-radius: 50px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#back {
+  background-color: #f36e26;
+  width: 200px;
+  height: 60px;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+}
+
+#next {
+  background-color: #f36e26;
+  width: 200px;
+  height: 60px;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  float: right;
+}
+
+img {
+  height: 300px;
+}
+
+#back:hover {
+  background-color:#5bc5c3;
+}
+
+#next:hover {
+  background-color:#5bc5c3;
+}
